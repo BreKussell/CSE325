@@ -1,0 +1,5 @@
+C:\Users\mckru\Desktop\school\CSE325\Megadesk_Russell\obj\Debug\net8.0-windows\Megadesk_Russell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mckru\Desktop\school\CSE325\Megadesk_Russell\obj\Debug\net8.0-windows\Megadesk_Russell.AssemblyInfoInputs.cache
+C:\Users\mckru\Desktop\school\CSE325\Megadesk_Russell\obj\Debug\net8.0-windows\Megadesk_Russell.AssemblyInfo.cs
+C:\Users\mckru\Desktop\school\CSE325\Megadesk_Russell\obj\Debug\net8.0-windows\Megadesk_Russell.csproj.CoreCompileInputs.cache
+C:\Users\mckru\Desktop\school\CSE325\Megadesk_Russell\obj\Debug\net8.0-windows\Megadesk_Russell.sourcelink.json
